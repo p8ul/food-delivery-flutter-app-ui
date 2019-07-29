@@ -5,7 +5,7 @@ A food delivery  flutter app UI
 Run `yarn && yarn start` on your terminal
 
 ## Screenshot (android & ios)
-![Screenshot](/screenshots/1.png?raw=true "Screenshot")
+![Screenshot](/screenshot/1.png?raw=true "Screenshot")
 
 
 ## Credits
