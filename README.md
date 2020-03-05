@@ -9,7 +9,7 @@ Run `yarn && yarn start` on your terminal
 
 
 ## Credits
-[Moinul Ahsan](https://dribbble.com/moin40) for the appealing online banking user interface [mock-up](https://dribbble.com/shots/6846120-Food-Delivery-App-Concept)
+[Moinul Ahsan](https://dribbble.com/moin40) for the appealing food delivery user interface [mock-up](https://dribbble.com/shots/6846120-Food-Delivery-App-Concept)
 
 ## Getting Started
 
